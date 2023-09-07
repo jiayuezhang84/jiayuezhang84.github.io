@@ -47,7 +47,9 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Boston, MA 02114
-
+contact:
+  - line: Email
+  - line: josiezhang84@gmail.com
 
 # Build settings
 markdown: kramdown
