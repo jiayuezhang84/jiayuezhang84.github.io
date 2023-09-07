@@ -35,22 +35,24 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  contact: Credit 
-
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: instagram    
-    url: https://www.instagram.com/josie_jyz/  
+  - title: linkedin
+    url: http://www.linkedin.com/in/josie-zhang  
+  - title: instagram
+    url: https://www.instagram.com/josie_jyz/
   - title: github
     url: https://github.com/jiayuezhang84
     
 # Postal address (add as many lines as necessary)
 address:
+  - line: The Athens of America
   - line: Boston, MA 02114
-contact:
-  - line: Email
-  - line: josiezhang84@gmail.com
+
+# Credits content
+contact: Josiezhang84@gmail.com
 
 # Build settings
 markdown: kramdown
