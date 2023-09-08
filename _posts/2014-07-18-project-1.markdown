@@ -4,5 +4,5 @@ modal-id: 1
 img: cabin.png
 alt: image-alt
 category: Python
-description: try it out on: https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR
+description: try it out on https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR
 ---
