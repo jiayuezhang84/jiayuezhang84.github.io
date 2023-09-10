@@ -5,7 +5,7 @@ title: Currency Converter
 img: circus.png
 alt: image-alt
 category: Python
-description: Converts currency using real-time conversion rates. 
+description: Converts currency using real-time conversion rates scraped from the web. 
 link: http://github.com/jiayuezhang84/currency_converter
 pic: submarine.png
 ---
