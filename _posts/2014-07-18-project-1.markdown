@@ -4,7 +4,9 @@ modal-id: 1
 img: cabin.png
 alt: image-alt
 category: Python
-description: PROJECT HIGHLIGHTS Utilized Tkinter GUI for estimating users’ US federal taxes owed using estimated income and filing statuses. • Created logic for data input forms to collect user financial data. • Developed logic to calculate taxes according to the applicable tax rules. • See full code on https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR
+description: Calculates 2023 Federal Taxes. [Github](https://github.com/jiayuezhang84/federal_tax_estimator_2023)
 pic: game.png
 alt: image-alt
 ---
+
+
