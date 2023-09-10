@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-real-title: 2023 Federal Tax Estimator
+title: 2023 Federal Tax Estimator
 img: cabin.png
 alt: image-alt
 category: Python
-description: Calculates 2023 Federal Taxes.
+description: Using income and other user data, calculates owed federal taxes for 2023.
 link: https://github.com/jiayuezhang84/federal_tax_estimator_2023
 pic: game.png
 ---
