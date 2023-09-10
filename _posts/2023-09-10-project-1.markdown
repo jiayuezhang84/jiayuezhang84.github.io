@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Currency Converter
 modal-id: 1
 img: cabin.png
 alt: image-alt
