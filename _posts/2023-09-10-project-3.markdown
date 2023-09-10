@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Currency Converter
 modal-id: 3
 img: circus.png
 alt: image-alt
