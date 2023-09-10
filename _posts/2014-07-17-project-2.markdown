@@ -5,4 +5,5 @@ img: cake.png
 alt: image-alt
 category: R, Python, HTML
 description: Scraped stock prices with Python Pandas and plotted to candlestick charts with Bokeh Quadrants. Utilized R for time series analysis and made predictions for future stock prices. Embedded Bokeh charts and predictions in a Flask webpage and deployed it to a live server. 
+pic: safe.png
 ---
