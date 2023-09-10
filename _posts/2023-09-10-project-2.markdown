@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+real-title: Stock Price Visualizer
 img: cake.png
 alt: image-alt
 category: R, Python, HTML
