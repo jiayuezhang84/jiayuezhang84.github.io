@@ -35,7 +35,7 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Social
-  credits: Email
+  credits: Contact me
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: Boston, MA 02114
 
 # Credits content
-Email: josiezhang84@gmail.com
+credits: reach out to me anytime by filling out the "CONTACT ME" Form above.
 
 # Build settings
 markdown: kramdown
