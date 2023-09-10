@@ -1,8 +1,0 @@
----
-layout: default
-modal-id: 5
-img: safe.png
-alt: image-alt
-category: Python
-description: Currency Converter applied Tkinter GUI for converting currencies via scraped real-time foreign exchange rates using Beautiful Soup.
----
