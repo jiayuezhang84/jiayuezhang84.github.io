@@ -35,7 +35,7 @@ footer:
   copyright: Jiayue Zhang
   location: Location
   social: Social
-  credits: Contact me
+  credits: Email
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: Boston, MA 02114
 
 # Credits content
-credits: reach out to me anytime by filling out the "CONTACT ME" Form above.😜
+credits: josiezhang84@gmail.com
 
 # Build settings
 markdown: kramdown
