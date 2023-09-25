@@ -6,8 +6,7 @@ img: cabin.png
 alt: image-alt
 category: Python
 description: Using income and other user data, calculates owed federal taxes for 2023.
-link: https://github.com/jiayuezhang84/federal_tax_estimator_2023
+link: https://github.com/jiayuezhang84/2023_tax_estimator_with_ai_assistant
 pic: game.png
 ---
-
 
